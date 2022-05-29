@@ -1,0 +1,27 @@
+{
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "The conventional newborn programmer greeting"
+    },
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "register": "Register",
+  "required": "Required",
+  "loading": "loading...",
+  "userData": "User Data",
+  "name": "Name : ",
+  "emailData" :  "Email : ",
+
+  "phone": "Phone : ",
+  "logout": "Logout",
+
+  "errorSignIn": "Error Sign In",
+
+
+  "fullName": "Full Name",
+  "phoneNo": "Phone",
+  "confirmPassword": "Confirm Password",
+
+  "creatingAccountOk": "congratulations your account is created successfully"
+}
